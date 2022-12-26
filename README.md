@@ -3,4 +3,4 @@
 - 🌱 I’m currently in PHP and Golang
 - 💞️ I’m looking to collaborate on Backend
 - 📫 How to reach me:  
-  e-mail: napemax@yandex.ru
+  e-mail: maxnap.developer@gmail.com
